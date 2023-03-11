@@ -1,0 +1,15 @@
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/bin/Debug/net6.0/Currency_ConverterForUWE
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/bin/Debug/net6.0/Currency_ConverterForUWE.deps.json
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/bin/Debug/net6.0/Currency_ConverterForUWE.runtimeconfig.json
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/bin/Debug/net6.0/Currency_ConverterForUWE.dll
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/bin/Debug/net6.0/Currency_ConverterForUWE.pdb
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/Currency_ConverterForUWE.csproj.AssemblyReference.cache
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/Currency_ConverterForUWE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/Currency_ConverterForUWE.AssemblyInfoInputs.cache
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/Currency_ConverterForUWE.AssemblyInfo.cs
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/Currency_ConverterForUWE.csproj.CoreCompileInputs.cache
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/Currency_ConverterForUWE.dll
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/refint/Currency_ConverterForUWE.dll
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/Currency_ConverterForUWE.pdb
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/Currency_ConverterForUWE.genruntimeconfig.cache
+/Users/liamobrien/Desktop/LEVEL 3 Coding/C#- Projects/Other UWE projects/Currency_Converter/Currency_ConverterForUWE/obj/Debug/net6.0/ref/Currency_ConverterForUWE.dll
